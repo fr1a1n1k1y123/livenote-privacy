@@ -58,7 +58,10 @@ Usage Data is collected automatically when using the Service and may include:
 
 While using Our Application, and with Your permission, We may collect:
 
-- Location information, only if you enable location-based features  
+- Location information is only used when you actively choose a location on the map
+to share with another user for a specific exchange.
+The app does not track or share your real-time location.
+
 - Photos or images, only when you choose to upload or select images within the app  
 
 We do not access your contacts or phone book.
